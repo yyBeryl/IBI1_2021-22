@@ -4,7 +4,7 @@
 #a+=b
 #print(a)
 #repeat for b in range(1,11)
-	#run
+	#Run
 	#Is b out of range?
 	#	If less than 10:Keep running
 	#	If 10:DONE!
