@@ -19,3 +19,12 @@ bp=plt.boxplot(x,
 plt.title('List manipulation')
 plt.xlabel('marks')
 plt.show()
+#write sth. to calculate whether Rob passes IBI
+s=sum(x)
+m=s/8
+if m>=60:
+	print("With a score of 60 or more, Rob passed the IBI course.")
+else:
+	print("With a score lower than 60, Rob didn't pass the IBI course.")
+
+
