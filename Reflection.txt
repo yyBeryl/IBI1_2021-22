@@ -1,4 +1,4 @@
-# Third note on 9/3/22, I use my own computer instead of ZJE server.
+# Third note on 9/3/22, I use my own computer instead of ZJE server and then use VPN and finally push my repo successfully.
 
 # Second note from 8/3/22, I successfully merged two files but still can't use push well.
 
