@@ -1,11 +1,12 @@
-# Third note on 7/1/21, yes! I can make changes in both directions!!
+# Third note on 9/3/22, I use my own computer instead of ZJE server.
 
-# Second note from 7/1/21, I managed to get changes on the ZJE server onto GitHub but can I make changes on the website and send them back?
+# Second note from 8/3/22, I successfully merged two files but still can't use push well.
 
-# Note from 7/1/21, I have cloned this repo onto the ZJE server and am now going to attempt to push it back onto GitHub.
+# Note from 8/3/22, I have cloned this repo onto the ZJE server but failed to push it back onto GitHub.
 
-This is an example file for reflection in IBI1_2019-20.
+During this course, I have learnt some principles of version control.
+In addition,I managed to do some tasks with git and github.
+What's more, I even tried to build my own simple website using github pages!
 
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
 
-I have also learnt to write careful instructions when communicating online!
+
