@@ -1,3 +1,13 @@
+#create a dictionary containing the info of the parental age and CHD
+PC={30:1.03,35:1.07,40:1.11,45:1.17,50:1.23,55:1.32,60:1.42,65:1.55,70:1.72,75:1.94}
+import random
+#x is parental age
+x=[30,35,40,45,50,55,60,65,70,75]
+#randomly choose one value from the parental age to simulate an imput from the user
+a=random.choice(x)
+#I searched the Internet to learn how to do this
+#the website is https://www.jb51.net/article/199816.htm
+print('The risk for CHD in the offspring is '+str(PC[a])+' of a father of an imput age')
 import matplotlib.pyplot as plt
 import numpy as np
 #create the data I need
