@@ -1,6 +1,7 @@
-sequence=input("Please input the sequence.")
+sequence=input("Please input the sequence.")#input a DNA sequence
 def s(x):
-    x=list(x.upper())
+    x=list(x.upper())#Converting lower case letters to upper case
+#xalculate the percentage of A,C,G and T
     pA=x.count("A")/len(x)
     print("The percentage of A in this sequence is " + str(pA) +".")
     pT=x.count("T")/len(x)
