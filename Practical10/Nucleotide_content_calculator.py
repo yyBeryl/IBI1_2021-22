@@ -1,4 +1,4 @@
-sequence=input("Please input the sequence.")#input a DNA sequence
+sequence=input("Please enter the sequence:")#input a DNA sequence
 def s(x):
     x=list(x.upper())#Converting lower case letters to upper case
 #xalculate the percentage of A,C,G and T
