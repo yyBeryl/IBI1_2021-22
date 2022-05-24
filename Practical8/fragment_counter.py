@@ -5,4 +5,4 @@ m=n+1#m is the number of fragments generated
 if n >= 0:
     print('The sequence would be cut to '+m+' fragments')
 else:
-    print('This sequence would not be cut and the number of fragments is 1.')
+    print('This sequence would not be cut and the number of fragments is 1.')#the result is this situationgiy
