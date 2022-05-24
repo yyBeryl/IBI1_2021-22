@@ -8,7 +8,7 @@ for line in seq:
     line = seq.readline()
     line = line.strip()
     if line.startswith('>'):
-	#write sequences that can be cut in xfile
+	#write sequences that can be cut by  EcoRI in xfile
         if 'GAATTC' in temporary:
             xfile.write(temporary+'\n')
         temporary=" "#empty the string each time
