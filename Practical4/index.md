@@ -1,4 +1,4 @@
 ## Welcome 
 
 My name is Zhang Yiyang. 
-I am an IBI1 student at ZJU-UoE institute, Zhejiang University
+I am an student learnin IBI1 course at ZJU-UoE institute, Zhejiang University
