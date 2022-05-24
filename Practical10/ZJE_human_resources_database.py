@@ -1,5 +1,4 @@
-class Staff():
-#create a class include the needed information of staffs
+class Staff():#create a class include the needed information of staffs
     def __init__(self,first_name,last_name,location,role):
         self.first_name=first_name
         self.last_name=last_name
