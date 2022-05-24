@@ -1,4 +1,4 @@
-Quesion: How have new cases and total cases developed over time in Spain?
+quesion: How have new cases and total cases developed over time in Spain?
 question line number: 50
 discussion: It is just what I expected.
 	The coincidence of these two lines at first means that there were zero new cases in Spain during this period.
