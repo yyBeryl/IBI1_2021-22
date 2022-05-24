@@ -35,8 +35,6 @@ for term in terms:#check every term
     Terms=term.getElementsByTagName('id')[0].childNodes[0].data#Terms is the id of the term in the loop
     if Terms in dict:
         childnodes=c(dict[Terms])#count the number of childNodes of the term in the loop
-    else:
-        childnodes=0#means the term in the loop not in the dictionary
     total.append(childnodes)#store the number in the total list
 #make a boxplot to show the distribution of childNodes across all terms
 plt.boxplot(total,
